@@ -1,0 +1,6 @@
+C:\CS271\Project0\Debug\Project.exe
+C:\CS271\Project0\Debug\Project.pdb
+C:\CS271\Project6\Debug\Project.exe
+C:\CS271\Project6\Debug\Project.pdb
+C:\Users\William Coiner\Documents\Low Level IO\Debug\Project.exe
+C:\Users\William Coiner\Documents\Low Level IO\Debug\Project.pdb
